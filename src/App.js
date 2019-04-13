@@ -11,15 +11,7 @@ class App extends Component {
           <p>
             Renan's Portifolio Init
           </p>
-          <p>Please, wait a short time to view this new project</p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
+          <p>Please, wait a short time to view this new project in React</p>
         </header>
       </div>
     );
